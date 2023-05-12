@@ -10,6 +10,8 @@ Free and Open Source. This program is free to use, copy and modify anyway you ch
 **Prerequisites:**
 
 * Python version 3.7.1 or later is required for successful deployment.
+* This version of the code is designed to be installed on Windows. However, UNC paths are supported for source and destination folders so you can easily use this tool to synchronize folder sets across other operating systems, such as Unix, Linux or Macos. 
+* Synchronizing has been successfully tested between filesets on Windows and several Linux distributions as of this writing. 
 
 ## Installation
 
