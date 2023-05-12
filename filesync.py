@@ -8,8 +8,8 @@ import shutil
 # --------------------------------------------------------------
 # filesync
 # --------------------------------------------------------------
-# Recursively copies filed between source and destination 
-# folders passed in the parametwra.
+# Recursively copies files between source and destination 
+# folder sets specified in the parametwra.
 # --------------------------------------------------------------
 # Developed using Python 3.7.1
 # --------------------------------------------------------------
